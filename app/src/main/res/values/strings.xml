@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Real Time Tracker</string>
+    <string name="title_activity_track_real_time">Tracking</string>
+    <string name="title_activity_tracker_real_time">Tracker !</string>
+</resources>
